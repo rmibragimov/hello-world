@@ -1,2 +1,2 @@
 # hello-world
-Step #0
+This is a toy example of how to manage projects in GitHub
